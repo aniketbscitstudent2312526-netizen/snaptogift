@@ -1,0 +1,11 @@
+[build]
+  publish = "."
+  command = "echo 'Static files ready'"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.php"
+  status = 200
+
+[build.environment]
+  PHP_VERSION = "8.1"
