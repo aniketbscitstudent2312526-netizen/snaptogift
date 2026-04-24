@@ -1,5 +1,5 @@
 # SnapToGift - AI-Powered eCommerce Platform
-## BCA Final Year Project
+## bsc.it Final Year Project
 
 A complete gift shopping eCommerce website with AI-powered product recommendations built with PHP, MySQL, and Bootstrap.
 
